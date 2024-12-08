@@ -1,0 +1,57 @@
+table {
+    font-family: sans-serif;
+    width: 100%;
+}
+th,td{
+    padding: 10px;
+    text-align: center;
+}
+th{
+    background-color: #FFC183;
+    text-align: center;
+}
+button{
+    background-color: #F58A42;
+    color:white;
+    border: none;
+    padding: 6px 16px;
+    border-radius: 20px;
+
+}
+
+.btntop{
+    padding-right: 20px;
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.btnne{
+    padding-left: 20px;
+                
+}
+button:hover{
+    background-color: #EB8542;
+}
+i{
+    padding-right: 10px;
+}
+.fas.fa-user-minus{
+    color: #cecece;
+}
+.fas.fa-user-minus:hover{
+    color: #EB8542;
+}
+.fas.fa-edit{
+    color: #F58A42; 
+    padding-right:20px;
+}
+.fas.fa-edit:hover{
+    color: #EB8542;
+}
+.fas.fa-save{
+    color: #F58A42; 
+    padding-right:20px;
+}
+.fas.fa-save:hover{
+    color: #EB8542;
+}
